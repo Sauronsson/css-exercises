@@ -1,0 +1,19 @@
+.base {
+    background-color:hsla(0, 68%, 71%, 0.603);
+    font-family:"Verdana", "DejaVu Sans", sans-serif;
+}
+
+.base.important {
+    font-size:24px;
+}
+
+#one {
+    color:blue;
+    font-size:22px;
+}
+
+#two {
+    background-color: hsla(98, 83%, 68%, 0.603);
+    font-size:24px;
+    font-weight:bold;
+}
