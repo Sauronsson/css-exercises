@@ -65,3 +65,7 @@ ul, ul a {
   flex: 0,0,auto;
 }
 
+button {
+  padding: 8px 16px;
+}
+
